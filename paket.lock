@@ -5,4 +5,4 @@ NUGET
       Microsoft.Bcl.Build (>= 1.0.14)
     Microsoft.Bcl.Async (1.0.168)
       Microsoft.Bcl (>= 1.1.8)
-    Microsoft.Bcl.Build (1.0.21)
+    Microsoft.Bcl.Build (1.0.21) - version_in_path: true
